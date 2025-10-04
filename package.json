@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://margaaustria.github.io/appdev1-midterm-exam/",
+  "homepage": "https://margaaustria.github.io/appdev1_midterm_exam/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
